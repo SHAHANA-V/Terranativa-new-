@@ -12,9 +12,12 @@
         <h2>Booking Summary</h2>
         <p><strong>Name:</strong> ${name}</p>
         <p><strong>Email:</strong> ${email}</p>
+        <p><strong>Phone:</strong> ${phone}</p>
         <p><strong>Room Type:</strong> ${roomType}</p>
+        <p><strong>Number of Guests:</strong> ${guests}</p>
         <p><strong>Check-In Date:</strong> ${checkIn}</p>
         <p><strong>Check-Out Date:</strong> ${checkOut}</p>
+        <p><strong>Total Nights:</strong> ${totalNights}</p>
         <p><strong>Special Request:</strong> ${specialRequest}</p>
         <h3>Total Cost: ₹${totalCost}</h3>
         <a href="index.html">Back to Home</a>

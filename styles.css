@@ -5,12 +5,7 @@ body{
   
 
 }
-.frobanner{
-    background-image: url('hotelimages/banner.jpg');
-    background-size: cover;
-    padding: 165px 0;
-    background-repeat: no-repeat;
-}
+
 .skills-padding{
   padding: 80px 0px;
 }

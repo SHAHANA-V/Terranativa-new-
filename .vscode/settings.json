@@ -1,3 +1,20 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "WEB-INF/lib/*.jar",
+    "C:/glassfish-7.0.24/glassfish7/glassfish/modules/jakarta.servlet-api.jar"
+  ],
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "WEB-INF/classes",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\Program Files\\Java\\jdk-21",
+      "default": true
+    }
+  ]
+
+
 }
